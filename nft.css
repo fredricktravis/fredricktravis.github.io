@@ -1,0 +1,99 @@
+@import url('https://fonts.google.com/specimen/Outfit'); 
+.container {
+    height: 210px;
+    width: 130px;
+    bottom: 50px;
+    border: 50px;
+    box-sizing: content-box;
+    background-color: hsl(216, 50%, 16%);
+    padding: 60px 35px 35px 35px;
+    box-shadow: 7px 7px 10px hsl(215, 32%, 27%), -7px -7px 10px hsl(215, 32%, 27%);
+    margin: auto;
+    margin-left: 200px;
+    align-content: center;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 13px;
+    font-display: white;
+    margin-left: -21px;
+    color: hsl(0, 0%, 100%);
+}
+
+p {
+    margin-left: -21px;
+    font-size: 8px;
+    text-align: start;
+    color:hsl(215, 51%, 70%);
+}
+
+body {
+    background: hsl(217, 54%, 11%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300, 400, 600;
+}
+
+.container2 > img {
+    width: 180px;
+    height: 160px;
+    border-radius: 5px;
+    margin-top: -50px;
+    margin-left: -25px;
+}
+
+h3 {
+    font-size: 18px;
+    margin-left: 15px;
+}
+
+.iconEthereum > img {
+    height: 10px;
+}
+
+.iconEthereum > label {
+    color: hsl(178, 100%, 50%);
+}
+#ethereum {
+    margin-left: -21px;
+    color: hsl(178, 100%, 50%);
+}
+
+.lowerCard {
+    font-size: 9px;
+}
+
+.clock > img {
+    height: 10px;
+    margin-top: 100px;
+    margin-right: 100px;
+}
+
+#clock {
+    margin: -1pt;
+    color: white;
+    margin-left: 20px;
+}
+
+.avatar > img {
+    height: 21px;
+    margin-left: -21px;
+}
+
+hr {
+    width: 135%;
+    margin-left: -24px;
+    height: -100px;
+    margin-top: -10px;
+    color: hsl(215, 51%, 70%);
+}
+
+.avatar {
+    font-size: 9px;
+    color: hsl(0, 0%, 100%);
+    margin-top: -5px;
+}
+
+b {
+    color: hsl(215, 51%, 70%);
+}
